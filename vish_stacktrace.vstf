@@ -1,0 +1,90 @@
+# Current time Tue Jan 03 08:11:49 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 5cff9e6f. Traceback:
+# 0    0x5cff9e6f: 'Tcl_GetString + 0xf'
+# 1    0x5cfe1f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x5cf53a49: 'TclNRRunCallbacks + 0x49'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Tue Jan 03 21:38:27 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 57509e6f. Traceback:
+# 0    0x57509e6f: 'Tcl_GetString + 0xf'
+# 1    0x574f1f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x57463a49: 'TclNRRunCallbacks + 0x49'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Tue Jan 03 21:38:27 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 57509e6f. Traceback:
+# 0    0x57509e6f: 'Tcl_GetString + 0xf'
+# 1    0x574f1f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x57463a49: 'TclNRRunCallbacks + 0x49'
+# 3    0x574f114d: 'Tcl_ListObjReplace + 0x4d'
+# 4    0x574f09fc: 'Tcl_UpdateLinkedVar + 0xa8c'
+# 5    0x0051d06e: 'EnumDispProc + 0x274ee'
+# 6    0x0051732b: 'EnumDispProc + 0x217ab'
+# 7    0x574639f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Tue Jan 03 21:38:27 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 57509e6f. Traceback:
+# 0    0x57509e6f: 'Tcl_GetString + 0xf'
+# 1    0x574f1f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x57463a49: 'TclNRRunCallbacks + 0x49'
+# 3    0x574f114d: 'Tcl_ListObjReplace + 0x4d'
+# 4    0x574f09fc: 'Tcl_UpdateLinkedVar + 0xa8c'
+# 5    0x0051d06e: 'EnumDispProc + 0x274ee'
+# 6    0x0051732b: 'EnumDispProc + 0x217ab'
+# 7    0x574639f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Tue Jan 03 21:38:27 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 57509e6f. Traceback:
+# 0    0x57509e6f: 'Tcl_GetString + 0xf'
+# 1    0x574f1f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x57463a49: 'TclNRRunCallbacks + 0x49'
+# 3    0x574f114d: 'Tcl_ListObjReplace + 0x4d'
+# 4    0x574f09fc: 'Tcl_UpdateLinkedVar + 0xa8c'
+# 5    0x0051d06e: 'EnumDispProc + 0x274ee'
+# 6    0x0051732b: 'EnumDispProc + 0x217ab'
+# 7    0x574639f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+

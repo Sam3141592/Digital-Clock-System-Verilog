@@ -1,0 +1,92 @@
+D:/DigitalProject/D_Flip_Flop_Trial.sv {1 {vlog -work work -sv -stats=none {D:\DigitalProject\D_Flip_Flop_Trial.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module D_Flip_Flop_Trial
+
+Top level modules:
+	D_Flip_Flop_Trial
+
+} {} {}} D:/DigitalProject/4BitCounterSeconds.sv {1 {vlog -work work -sv -stats=none {D:\DigitalProject\4BitCounterSeconds.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FourBitCounterSynchronus
+
+Top level modules:
+	FourBitCounterSynchronus
+
+} {} {}} D:/DigitalProject/ClockDivider.sv {1 {vlog -work work -sv -stats=none {D:\DigitalProject\ClockDivider.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ClockDivider
+
+Top level modules:
+	ClockDivider
+
+} {} {}} D:/DigitalProject/FourBitAdderSubtractor.sv {1 {vlog -work work -sv -stats=none D:/DigitalProject/FourBitAdderSubtractor.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FourBitAdderSubtractor
+
+Top level modules:
+	FourBitAdderSubtractor
+
+} {} {}} D:/DigitalProject/Main.sv {1 {vlog -work work -sv -stats=none D:/DigitalProject/Main.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main
+
+Top level modules:
+	Main
+
+} {} {}} D:/DigitalProject/FourBitCounterMinutes.sv {1 {vlog -work work -sv -stats=none {D:\DigitalProject\FourBitCounterMinutes.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FourBitCounterMinutes
+
+Top level modules:
+	FourBitCounterMinutes
+
+} {} {}} D:/DigitalProject/mux42.sv {1 {vlog -work work -sv -stats=none D:/DigitalProject/mux42.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux42
+
+Top level modules:
+	mux42
+
+} {} {}} D:/DigitalProject/T_Flip_Flop.v {1 {vlog -work work -stats=none D:/DigitalProject/T_Flip_Flop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module T_Flip_Flop
+
+Top level modules:
+	T_Flip_Flop
+
+} {} {}} D:/DigitalProject/FullAdder.sv {1 {vlog -work work -sv -stats=none {D:\DigitalProject\FullAdder.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} D:/DigitalProject/ThreeBit_Minutes.sv {1 {vlog -work work -sv -stats=none D:/DigitalProject/ThreeBit_Minutes.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ThreeBit_Minutes
+
+Top level modules:
+	ThreeBit_Minutes
+
+} {} {}} D:/DigitalProject/mux21.sv {1 {vlog -work work -sv -stats=none D:/DigitalProject/mux21.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} D:/DigitalProject/D_Flip_Flop.sv {1 {vlog -work work -sv -stats=none D:/DigitalProject/D_Flip_Flop.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module D_Flip_Flop
+
+Top level modules:
+	D_Flip_Flop
+
+} {} {}} D:/DigitalProject/T_Flip_Flop.sv {1 {vlog -work work -sv -stats=none {D:\DigitalProject\T_Flip_Flop.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module T_Flip_Flop
+
+Top level modules:
+	T_Flip_Flop
+
+} {} {}}

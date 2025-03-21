@@ -1,0 +1,345 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSIM
+vClockDivider
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1672840313
+!i10b 1
+!s100 T8Ge1zj92:d3eTjQL7Goi2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGYTI^cBY6ad_TDN6bojFR2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dD:/DigitalProject
+w1672840306
+8D:\DigitalProject\ClockDivider.sv
+FD:\DigitalProject\ClockDivider.sv
+!i122 26
+L0 1 14
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1672840313.000000
+!s107 D:\DigitalProject\ClockDivider.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\DigitalProject\ClockDivider.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+n@clock@divider
+vD_Flip_Flop
+R0
+!s110 1672715465
+!i10b 1
+!s100 fT]2gK:5EfGHSXURMm8go3
+R1
+I7<e_E^O=hZn]efRn4e@k?2
+R2
+S1
+R3
+w1672715399
+8D:/DigitalProject/D_Flip_Flop.sv
+FD:/DigitalProject/D_Flip_Flop.sv
+!i122 9
+L0 1 50
+R4
+r1
+!s85 0
+31
+!s108 1672715465.000000
+!s107 D:/DigitalProject/D_Flip_Flop.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalProject/D_Flip_Flop.sv|
+!i113 1
+R5
+R6
+n@d_@flip_@flop
+vD_Flip_Flop_Trial
+R0
+!s110 1672775198
+!i10b 1
+!s100 DVhPSAHRZF]hOkNoJ>T2O2
+R1
+I6J6`b4gS:LCK4oK95[^4=2
+R2
+S1
+R3
+w1672775193
+8D:\DigitalProject\D_Flip_Flop_Trial.sv
+FD:\DigitalProject\D_Flip_Flop_Trial.sv
+!i122 18
+L0 2 9
+R4
+r1
+!s85 0
+31
+!s108 1672775198.000000
+!s107 D:\DigitalProject\D_Flip_Flop_Trial.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\DigitalProject\D_Flip_Flop_Trial.sv|
+!i113 1
+R5
+R6
+n@d_@flip_@flop_@trial
+vFourBitAdderSubtractor
+R0
+!s110 1672709224
+!i10b 1
+!s100 >z4c>f4D8=EGYmS`@6^_k3
+R1
+IBa?i2DKGNHG6zXi1cU;^T0
+R2
+S1
+R3
+w1672709219
+8D:/DigitalProject/FourBitAdderSubtractor.sv
+FD:/DigitalProject/FourBitAdderSubtractor.sv
+!i122 8
+L0 1 16
+R4
+r1
+!s85 0
+31
+!s108 1672709224.000000
+!s107 D:/DigitalProject/FourBitAdderSubtractor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalProject/FourBitAdderSubtractor.sv|
+!i113 1
+R5
+R6
+n@four@bit@adder@subtractor
+vFourBitCounterMinutes
+R0
+!s110 1672800985
+!i10b 1
+!s100 SL@5hPUlYiY6bN7=<I>VR2
+R1
+IVLiOSQPO8E@D48mK>9TKF0
+R2
+S1
+R3
+w1672780756
+8D:\DigitalProject\FourBitCounterMinutes.sv
+FD:\DigitalProject\FourBitCounterMinutes.sv
+!i122 23
+L0 1 163
+R4
+r1
+!s85 0
+31
+!s108 1672800984.000000
+!s107 D:\DigitalProject\FourBitCounterMinutes.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\DigitalProject\FourBitCounterMinutes.sv|
+!i113 1
+R5
+R6
+n@four@bit@counter@minutes
+vFourBitCounterSynchronus
+R0
+!s110 1672881076
+!i10b 1
+!s100 X9HK5TmPR:;FR1HiaHFWj2
+R1
+I[ILW3:SP<f5`D]==^09a@1
+R2
+S1
+R3
+w1672881008
+8D:\DigitalProject\4BitCounterSeconds.sv
+FD:\DigitalProject\4BitCounterSeconds.sv
+!i122 41
+L0 1 43
+R4
+r1
+!s85 0
+31
+!s108 1672881076.000000
+!s107 D:\DigitalProject\4BitCounterSeconds.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\DigitalProject\4BitCounterSeconds.sv|
+!i113 1
+R5
+R6
+n@four@bit@counter@synchronus
+vFullAdder
+R0
+!s110 1672708327
+!i10b 1
+!s100 <bJbMcF8]WCiE3^<]IX0V3
+R1
+I<QNgZ8_9Mc=o;@gZGhW_C1
+R2
+S1
+R3
+w1672708248
+8D:\DigitalProject\FullAdder.sv
+FD:\DigitalProject\FullAdder.sv
+!i122 7
+L0 1 18
+R4
+r1
+!s85 0
+31
+!s108 1672708327.000000
+!s107 D:\DigitalProject\FullAdder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\DigitalProject\FullAdder.sv|
+!i113 1
+R5
+R6
+n@full@adder
+vMain
+R0
+!s110 1672877050
+!i10b 1
+!s100 3jjKlRPV]EaI5RQN1YMOM2
+R1
+IiTEcM?Zg:9e=Iea^Wd@@X2
+R2
+S1
+R3
+w1672877035
+8D:/DigitalProject/Main.sv
+FD:/DigitalProject/Main.sv
+!i122 38
+L0 1 220
+R4
+r1
+!s85 0
+31
+!s108 1672877050.000000
+!s107 D:/DigitalProject/Main.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalProject/Main.sv|
+!i113 1
+R5
+R6
+n@main
+vmux21
+R0
+!s110 1672726063
+!i10b 1
+!s100 YB2O]K2mHEj]17UEFIL[N3
+R1
+I4Uh8H5P8Zni]5lkKz1[kl0
+R2
+S1
+R3
+w1671479986
+8D:/DigitalProject/mux21.sv
+FD:/DigitalProject/mux21.sv
+!i122 15
+L0 1 9
+R4
+r1
+!s85 0
+31
+!s108 1672726063.000000
+!s107 D:/DigitalProject/mux21.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalProject/mux21.sv|
+!i113 1
+R5
+R6
+vmux42
+R0
+!s110 1672855837
+!i10b 1
+!s100 _VAD26U3j6bdV[jnXc1lh1
+R1
+IlU0mbj86Y2^fCWzFVTDhI3
+R2
+S1
+R3
+w1672855536
+8D:/DigitalProject/mux42.sv
+FD:/DigitalProject/mux42.sv
+!i122 28
+L0 1 8
+R4
+r1
+!s85 0
+31
+!s108 1672855837.000000
+!s107 D:/DigitalProject/mux42.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalProject/mux42.sv|
+!i113 1
+R5
+R6
+vT_Flip_Flop
+!s110 1672950371
+!i10b 1
+!s100 @hMY7CPJKNB321>7j5b<z2
+R1
+I5UUj;KNaMz0^oz6l=CNcX0
+R2
+R3
+w1672926035
+8D:/DigitalProject/T_Flip_Flop.v
+FD:/DigitalProject/T_Flip_Flop.v
+!i122 44
+L0 2 73
+R4
+r1
+!s85 0
+31
+!s108 1672950371.000000
+!s107 D:/DigitalProject/T_Flip_Flop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DigitalProject/T_Flip_Flop.v|
+!i113 1
+o-work work
+R6
+n@t_@flip_@flop
+vThreeBit_Minutes
+R0
+!s110 1672875799
+!i10b 1
+!s100 >YPhDiNDWnjJR8SGc]bCF1
+R1
+IhSI90W:=Rio8OGB_1Gm4N0
+R2
+S1
+R3
+w1672837672
+8D:/DigitalProject/ThreeBit_Minutes.sv
+FD:/DigitalProject/ThreeBit_Minutes.sv
+!i122 36
+L0 1 46
+R4
+r1
+!s85 0
+31
+!s108 1672875799.000000
+!s107 D:/DigitalProject/ThreeBit_Minutes.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalProject/ThreeBit_Minutes.sv|
+!i113 1
+R5
+R6
+n@three@bit_@minutes
+vThreeBit_Seconds
+R0
+!s110 1672702254
+!i10b 1
+!s100 `;V>O`cf[2Fa7ZPY<Hh@40
+R1
+I5ana3mZQLegk]YiT_b:FZ3
+R2
+S1
+R3
+w1672702235
+8D:\DigitalProject\ThreeBit_Seconds.sv
+FD:\DigitalProject\ThreeBit_Seconds.sv
+!i122 5
+L0 1 37
+R4
+r1
+!s85 0
+31
+!s108 1672702254.000000
+!s107 D:\DigitalProject\ThreeBit_Seconds.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\DigitalProject\ThreeBit_Seconds.sv|
+!i113 1
+R5
+R6
+n@three@bit_@seconds

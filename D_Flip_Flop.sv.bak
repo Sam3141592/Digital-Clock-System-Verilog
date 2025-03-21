@@ -1,0 +1,11 @@
+module D_Flip_Flop(D,clk,Q,Qnot);
+input D; // Data input 
+input clk; // clock input 
+output logic Q; // output Q 
+output logic Qnot;
+always @(posedge clk) 
+begin
+ Q <= D;
+ Qnot <= ~Q;
+end 
+endmodule 
